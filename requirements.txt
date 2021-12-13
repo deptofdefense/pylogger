@@ -1,0 +1,2 @@
+pytz
+git+https://github.com/deptofdefense/pyserializer.git@main#egg=pyserializer
